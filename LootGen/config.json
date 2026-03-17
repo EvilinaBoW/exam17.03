@@ -1,0 +1,21 @@
+{
+    "loot_table": [
+        {"name": "Iron Sword", "rarity": "Common", "weight": 40},
+        {"name": "Wooden Shield", "rarity": "Common", "weight": 35},
+        {"name": "Health Potion", "rarity": "Common", "weight": 30},
+        {"name": "Steel Axe", "rarity": "Rare", "weight": 15},
+        {"name": "Leather Armor", "rarity": "Rare", "weight": 12},
+        {"name": "Mana Potion", "rarity": "Rare", "weight": 10},
+        {"name": "Enchanted Bow", "rarity": "Epic", "weight": 6},
+        {"name": "Dragon Scale Mail", "rarity": "Epic", "weight": 4},
+        {"name": "Legendary Ring", "rarity": "Epic", "weight": 3},
+        {"name": "Godslayer Blade", "rarity": "Legendary", "weight": 1},
+        {"name": "Phoenix Feather", "rarity": "Legendary", "weight": 1},
+        {"name": "Void Orb", "rarity": "Legendary", "weight": 1}
+    ],
+    "chest_weights": {
+        "common": {"Common": 80, "Rare": 18, "Epic": 2, "Legendary": 0},
+        "rare": {"Common": 40, "Rare": 45, "Epic": 13, "Legendary": 2},
+        "epic": {"Common": 10, "Rare": 35, "Epic": 45, "Legendary": 10}
+    }
+}
