@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE и редакторы
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ruff
+.ruff_cache/
+
+# Сгенерированные файлы утилиты
+*.png
+*.csv
+results.csv
+loot_stats.png
+
+# Конфиг (только дефолтный config.json)
+# config.json — коммитится (он с настройками по умолчанию)
+
+# MacOS / Windows мусор
+.DS_Store
+Thumbs.db
